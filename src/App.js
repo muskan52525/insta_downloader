@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import UI from './component/ui';
+import UI from './component/downloader';
 
 function App() {
   return (
